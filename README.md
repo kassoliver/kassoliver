@@ -1,3 +1,4 @@
+![Logo of the project](https://github.com/kassoliver/kassoliver/blob/main/Sparkle.png?raw=true)
 ### Hey! 👋
 <p> 🔭 Bacharel em Sistemas de Informação, trabalho atualmente como Analista de  Sistemas na Unimed Três Vales.</p>
 <p> 🌱 Pós-graduanda em Inteligência Artificial e Aprendizado de Máquina, estou em processo de capacitação e qualificação nas seguintes áreas de interesse: 
