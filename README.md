@@ -6,6 +6,8 @@ Inteligência Artificial, Big Data, Chatbot, Python e UX.</p>
 <p> 💬 Busco sempre aprender e motivar pessoas, principalmente mulheres, a ingressar na área da tecnologia.</p>
 <p> ⚡ Mesmo com muitos desafios, acredito que com fé, persistência e dedicação, tudo é possível!!!</p>
 
+## 🚀💻 Technologies & Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
