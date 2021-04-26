@@ -6,14 +6,10 @@ Inteligência Artificial, Big Data, Chatbot, Python e UX.</p>
 <p> 💬 Busco sempre aprender e motivar pessoas, principalmente mulheres, a ingressar na área da tecnologia.</p>
 <p> ⚡ Mesmo com muitos desafios, acredito que com fé, persistência e dedicação, tudo é possível!!!</p>
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassoliver&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=kassoliver&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassoliver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Kassoliver GitHub stats](https://github-readme-stats.vercel.app/api?username=kassoliver&show_icons=true&theme=tokyonight)
 
 
 
