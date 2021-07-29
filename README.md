@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/kassoliver/kassoliver/blob/main/kassia_logo.png?raw=true)
+![Logo of the project](https://github.com/kassoliver/kassoliver/blob/main/kassia.png?raw=true)
 ### Hey! 👋
 <p> 🔭 Bacharel em Sistemas de Informação, trabalho atualmente como Analista de  Desenvolvimento de Sistemas na Energisa.</p>
 <p> 🌱 Pós-graduanda em Inteligência Artificial e Aprendizado de Máquina, estou em processo de capacitação e qualificação nas seguintes áreas de interesse: 
