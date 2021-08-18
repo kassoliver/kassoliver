@@ -2,7 +2,7 @@
 ### Hey! 👋
 <p> 🔭 Bacharel em Sistemas de Informação, trabalho atualmente como Analista de  Desenvolvimento de Sistemas na Energisa.</p>
 <p> 🌱 Pós-graduanda em Inteligência Artificial e Aprendizado de Máquina, estou em processo de capacitação e qualificação nas seguintes áreas de interesse: 
-Inteligência Artificial, Big Data, Chatbot, Python e UX.</p>
+Inteligência Artificial, Big Data, Chatbot, Python, Javascript e NodeJs.</p>
 <p> 💬 Busco sempre aprender e motivar pessoas, principalmente mulheres, a ingressar na área da tecnologia.</p>
 <p> ⚡ Mesmo com muitos desafios, acredito que com fé, persistência e dedicação, tudo é possível!!!</p>
 
