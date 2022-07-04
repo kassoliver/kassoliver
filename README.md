@@ -1,7 +1,7 @@
 ![Logo of the project](https://github.com/kassoliver/kassoliver/blob/main/kassia_logo.png?raw=true)
 ### Hey! 👋
 <p> 🔭 Bacharel em Sistemas de Informação, trabalho atualmente como Backend Developer at Luizalabs.</p>
-<p> 🌱 Pós-graduanda em Inteligência Artificial e Aprendizado de Máquina, estou em processo de capacitação e qualificação nas seguintes áreas de interesse: 
+<p> 🌱 Pós-graduada em Inteligência Artificial e Aprendizado de Máquina, estou em processo de capacitação e qualificação nas seguintes áreas de interesse: 
 Inteligência Artificial, Big Data, Chatbot, Python, Javascript e NodeJs.</p>
 <p> 💬 Busco sempre aprender e motivar pessoas, principalmente mulheres, a ingressar na área da tecnologia.</p>
 <p> ⚡ Mesmo com muitos desafios, acredito que com fé, persistência e dedicação, tudo é possível!!!</p>
